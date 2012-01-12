@@ -16,6 +16,11 @@ Think this is just useful for code? Think again! You ~~can~~ should
 version control papers, and small datasets (e.g. an RNA-seq counts
 table, not a 5GB SAM file).
 
+But first, tell Git who you are with: 
+
+    git config --global user.name "Vince Buffalo"
+    git config --global user.email vsbuffalo@ucdavis.edu
+
 ## Creating repositories, adding files, and committing
 
 ### Creating a repository from a directory, adding files, and committing
@@ -176,3 +181,4 @@ conflicts.
  - git refspecs
  - git stash
  - Github
+ - git blame
