@@ -1,4 +1,4 @@
-# Quick Git for Bioinformatics
+# Quick Git for Bioinformatics 
 
 ## Introduction
 
