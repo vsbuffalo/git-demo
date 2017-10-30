@@ -182,3 +182,5 @@ conflicts.
  - git stash
  - Github
  - git blame
+ 
+## Especially for git newbies, i think this is a good write though i havent read every line.
